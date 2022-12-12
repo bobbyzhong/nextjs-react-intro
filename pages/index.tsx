@@ -20,8 +20,8 @@ export default function Home() {
                     similique, dicta nihil. In voluptatibus amet earum impedit
                     incidunt praesentium rem?
                 </p>
-                <Link href="/ninjas" className={styles.btn}>
-                    See Ninja Listing
+                <Link href="/employees" className={styles.btn}>
+                    See Employee Listing
                 </Link>
             </div>
         </>
